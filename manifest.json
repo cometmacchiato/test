@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Testting page",
+    "short_name": "test",
+    "description": "This is a test. Do not take it too seriously",
+    "start_url": "./",
+    "background_color": "#808080",
+    "theme_color": "#1b2a41",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "./icon/???",
+            "sizes": "187x187"
+        }
+    ]
+}
