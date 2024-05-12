@@ -15,3 +15,12 @@ h2 {
 
   text-align: center;
 }
+
+button {
+  font-family: "arial", san serif;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background-color: rgb(0 0 0 / 100%);
+  padding: 4px 10px;
+  cursor: pointer;
+}
